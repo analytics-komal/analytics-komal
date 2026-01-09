@@ -119,7 +119,7 @@ https://github.com/analytics-komal
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
 <p>
   <img align="center"
