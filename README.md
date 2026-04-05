@@ -83,7 +83,7 @@ Power BI | Advanced Excel | SQL | Python
 - Identified **sales trends, top products, and business insights**
 
 🔗 **Project Link:**  
-https://github.com/analytics-komal
+https://superstore-sales-analysis
 
 ---
 
