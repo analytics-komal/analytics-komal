@@ -105,25 +105,15 @@ Power BI | Advanced Excel | SQL | Python
   </a>
 </p>
 
-📫
+📫 **Email:**  
 <a href="mailto:komal.career16@gmail.com" class="contact-btn">
-<i class="fa-solid fa-envelope"></i> Email Me
 </a>
 
 📁 **All Projects:**  
-<p>
-  📄 👉 <a href="https://github.com/analytics-komal" target="_blank">
-    Click here to view my projects
-  </a>
-</p>
+📄 👉 <a href="https://github.com/analytics-komal" target="_blank">
 
-📄 **Resume:**  
-<p>
-  📄 👉 <a href="https://drive.google.com/file/d/1x7IPp2x4_zFZVzC9_wrj8rlZ-_sxkNyS/view?usp=sharing" target="_blank">
-    Click here to view my resume
-  </a>
-</p>
-
+📄 **Resume:**  👉 <a href="https://drive.google.com/file/d/1x7IPp2x4_zFZVzC9_wrj8rlZ-_sxkNyS/view?usp=sharing" target="_blank">
+ 
 ---
 
 ## 📈 GitHub Status
