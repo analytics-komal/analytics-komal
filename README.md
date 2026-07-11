@@ -1,9 +1,9 @@
-<!-- Animated Header with Waving Effect -->
+<!-- Animated Header with Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=a78bfa&center=true&vCenter=true&width=800&height=100&lines=Komal+Mahajan;MIS+Analyst+%26+Data+Analyst;SQL+Expert+%7C+Power+BI" alt="Header"/>
 </p>
 
-<!-- Animated Typing Effect -->
+<!-- Animated Sub-Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=MIS+Analyst+%7C+Data+Analyst;SQL+Expert+%7C+Power+BI+Developer;5%E2%98%85+HackerRank+SQL+Badge;Immediate+Joiner+%7C+Open+to+Work" alt="Typing SVG"/>
 </p>
@@ -21,8 +21,7 @@
   </a>
 </p>
 
-
-
+---
 
 <!-- HackerRank 5-Star Highlight Box -->
 <div align="center">
@@ -44,7 +43,7 @@
 
 ---
 
-## 👩💻 About Me
+## 👩‍💻 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300C8FF&size=20&center=true&vCenter=true&width=800&lines=I+turn+raw+data+into+clear%2C+actionable+insights...;Helping+teams+make+better+decisions+faster!;Passionate+about+SQL%2C+Power+BI%2C+and+Advanced+Excel" alt="About Me"/>
@@ -54,7 +53,7 @@
   <table width="100%">
     <tr>
       <td width="50%" style="padding: 15px; vertical-align: top;">
-        <h3> Current Role</h3>
+        <h3>🎯 Current Role</h3>
         <ul>
           <li>💼 <b>MIS Analyst</b> at Code Precise IT Solution LLP, Indore</li>
           <li>📍 Based in <b>Indore, India</b></li>
@@ -70,7 +69,7 @@
           <li>🗄️ Write complex <b>SQL queries</b> & optimize performance</li>
           <li>📈 Create advanced <b>Excel reports</b> with Pivot Tables</li>
           <li>🤖 Leverage <b>AI tools</b> (Claude, Gemini, GPT, Groq, Qwen) to streamline workflows</li>
-          <li> Transform raw data into <b>business insights</b></li>
+          <li>🔍 Transform raw data into <b>business insights</b></li>
         </ul>
       </td>
     </tr>
@@ -146,7 +145,7 @@
 
 ---
 
-##  Technical Skills & AI Tools
+## 🧰 Technical Skills & AI Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlserver,mysql,python,git,github,vscode,excel,powerbi&perline=8" alt="Skills"/>
@@ -163,7 +162,7 @@
         <td align="center"><b>📈 Power BI</b><br/>Dashboards, DAX, KPI Tracking, Data Modeling</td>
       </tr>
       <tr>
-        <td align="center"><b> AI Models Used</b><br/>Claude AI, Gemini, GPT-4, Groq, Qwen AI</td>
+        <td align="center"><b>🤖 AI Models Used</b><br/>Claude AI, Gemini, GPT-4, Groq, Qwen AI</td>
         <td align="center"><b>🐍 Programming</b><br/>Python (Basics), Data Automation, Scripting</td>
         <td align="center"><b>🛠️ Productivity</b><br/>Microsoft Copilot, GitHub, VS Code</td>
       </tr>
@@ -173,7 +172,7 @@
 
 ---
 
-##  Certifications
+## 🏆 Certifications
 
 <div align="center">
   <img src="https://media.giphy.com/media/TEnXkcsWzP4YgW3zXK/giphy.gif" width="150" alt="Certifications"/>
@@ -182,34 +181,34 @@
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 10px;">
     <tr style="background-color: rgba(167, 139, 250, 0.1);">
-      <th style="padding: 12px; text-align: left; color: #a78bfa;"> Certification</th>
+      <th style="padding: 12px; text-align: left; color: #a78bfa;">🏆 Certification</th>
       <th style="padding: 12px; text-align: left; color: #a78bfa;">🏢 Issuer</th>
-      <th style="padding: 12px; text-align: center; color: #a78bfa;">🔗 Link</th>
+      <th style="padding: 12px; text-align: center; color: #a78bfa;">🔗 Verify / View</th>
     </tr>
     <tr>
       <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1);">📊 Introduction to Data Analytics</td>
       <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); color: #b0b0b0;">SimpliLearn SkillUP</td>
-      <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); text-align: center;"><a href="https://www.simplilearn.com/" target="_blank">View</a></td>
+      <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); text-align: center;"><a href="https://certificates.simplicdn.net/share/9626308_9890492_1766470538566.png" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1);">🗄️ Introduction to SQL</td>
       <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); color: #b0b0b0;">SimpliLearn SkillUP</td>
-      <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); text-align: center;"><a href="https://www.simplilearn.com/" target="_blank">View</a></td>
+      <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); text-align: center;"><a href="https://certificates.simplicdn.net/share/9673579_9890492_1767436701228.png" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1);">🤖 GenAI Powered Data Analytics Job Simulation</td>
       <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); color: #b0b0b0;">Tata / Forage</td>
-      <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); text-align: center;"><a href="https://www.theforage.com/" target="_blank">View</a></td>
+      <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); text-align: center;"><a href="https://raw.githubusercontent.com/analytics-komal/Certifications/refs/heads/main/GenAI_Powered_Data%20_Analystics_job_Simulation_certificate_page-0001.jpg" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1);">📈 Excel with ChatGPT</td>
       <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); color: #b0b0b0;">Sage University</td>
-      <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); text-align: center;"><a href="https://www.sageuniversity.edu.in/" target="_blank">View</a></td>
+      <td style="padding: 12px; border-bottom: 1px solid rgba(167, 139, 250, 0.1); text-align: center;"><a href="https://raw.githubusercontent.com/analytics-komal/Certifications/refs/heads/main/Excel_with_chatgpt.jpg" target="_blank">View Certificate</a></td>
     </tr>
     <tr>
       <td style="padding: 12px;">📉 Analyzing & Visualizing Data with Power BI</td>
       <td style="padding: 12px; color: #b0b0b0;">Accounts Expert</td>
-      <td style="padding: 12px; text-align: center;">Accounts Expert</td>
+      <td style="padding: 12px; text-align: center;"><a href="https://media.licdn.com/dms/image/v2/D4D2DAQFTQNAPoe6C1A/profile-treasury-image-shrink_800_800/B4DZwnEngBJ0AY-/0/1770182051416?e=1784376000&v=beta&t=PUAnoqD61qP_Q3i7ikg4SLX5OSmowGtHWIgqXUi-Iaw" target="_blank">View Certificate</a></td>
     </tr>
   </table>
 </div>
@@ -253,34 +252,27 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Contact"/>
 </p>
 
-<!-- Contact Form using FormSubmit -->
-<form action="https://formsubmit.co/komal.career16@gmail.com" method="POST" style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: rgba(167, 139, 250, 0.05); border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 15px;">
-  <h3 style="color: #a78bfa; text-align: center;">Let's Build Something Data-Driven Together!</h3>
-  <p style="color: #b0b0b0; text-align: center; font-size: 14px;">Open to Data Analyst, MIS Analyst, and Reporting Analyst roles. Immediate Joiner!</p>
-  
-  <div style="margin-bottom: 15px;">
-    <input type="text" name="name" placeholder="Your Name" required style="width: 100%; padding: 12px; border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); color: #e0e0e0; box-sizing: border-box;"/>
-  </div>
-  
-  <div style="margin-bottom: 15px;">
-    <input type="email" name="email" placeholder="Your Email" required style="width: 100%; padding: 12px; border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); color: #e0e0e0; box-sizing: border-box;"/>
-  </div>
-  
-  <div style="margin-bottom: 15px;">
-    <input type="text" name="subject" placeholder="Subject" required style="width: 100%; padding: 12px; border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); color: #e0e0e0; box-sizing: border-box;"/>
-  </div>
-  
-  <div style="margin-bottom: 15px;">
-    <textarea name="message" placeholder="Your Message" rows="5" required style="width: 100%; padding: 12px; border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 8px; background-color: rgba(255, 255, 255, 0.05); color: #e0e0e0; box-sizing: border-box; font-family: inherit;"></textarea>
-  </div>
-  
-  <button type="submit" style="width: 100%; padding: 14px; background: linear-gradient(135deg, #a78bfa, #7c3aed); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 600; cursor: pointer;">
-    Send Message 🚀
-  </button>
-  
-  <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="https://github.com/analytics-komal">
-</form>
+<!-- GitHub Compatible Contact Section (Forms are blocked by GitHub) -->
+<div align="center">
+  <table width="80%" style="border-collapse: collapse; border: 1px solid rgba(167, 139, 250, 0.3); border-radius: 15px; background-color: rgba(167, 139, 250, 0.05);">
+    <tr>
+      <td align="center" style="padding: 30px;">
+        <h3 style="color: #a78bfa; margin-top: 0;">Let's Build Something Data-Driven Together!</h3>
+        <p style="color: #b0b0b0; font-size: 15px; margin-bottom: 20px;">
+          Open to Data Analyst, MIS Analyst, and Reporting Analyst roles. Immediate Joiner!<br>
+          Reach out directly via email or visit my interactive portfolio to send a message.
+        </p>
+        <a href="mailto:komal.career16@gmail.com" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/📧_Email_Me_Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/komal-analyst/" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -304,13 +296,13 @@
   </a>
   <br/><br/>
   <a href="https://drive.google.com/file/d/1qdrH-_uB3QhDlVMLoGoqVYXQ2RZuensR/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/_Download_Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
 </div>
 
 ---
 
-##  GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=analytics-komal&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="45%"/>
@@ -326,7 +318,7 @@
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:a78bfa&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 </div>
 
 <div align="center">
